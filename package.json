@@ -4,7 +4,7 @@
   "description": "Convert csv to JSON format",
   "version": "0.0.1",
   "repository": {
-    "url": "git@github.com:dennisg/CSV-to-JSON.git"
+    "url": "git@github.com:dennisg/csv2json.git"
   },
   "main": "lib/csv.js",
   "scripts": {
