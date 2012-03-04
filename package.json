@@ -11,7 +11,7 @@
     "test": "node test/test.js"
   },
   "engines": {
-    "node": "~0.4.7"
+    "node": ">=0.4.7"
   },
   "dependencies": {
  	"lazy" : "1.0.8", 
